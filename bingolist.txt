@@ -32,4 +32,5 @@ So ein bullshit,
 (Lord regt sich über tileras Aussprache auf),
 (Language server kekt),
 Mal schauen warum es nicht geht,
-Gradle gradlet
+Gradle gradlet,
+Sind wir uns eigentlich sicher
