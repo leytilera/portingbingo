@@ -33,5 +33,5 @@ So ein bullshit,
 (Language server kekt),
 Mal schauen warum es nicht geht,
 Gradle gradlet,
-Sind wir uns eigentlich sicher
+Sind wir uns eigentlich sicher,
 (Lord verliert die Kontrolle über seinen Editor)
